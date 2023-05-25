@@ -246,7 +246,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline4" />
 
     <Button
-        android:id="@+id/btn_goose1"
+        android:id="@+id/btn_goose"
         android:layout_width="95dp"
         android:layout_height="112dp"
         android:text="Goose"
